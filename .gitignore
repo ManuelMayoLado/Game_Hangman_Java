@@ -5,6 +5,17 @@ ehthumbs.db
 # Folder config file
 Desktop.ini
 
+#Java
+.classpath
+.project
+
+#Netbeans
+build/
+nbproject/
+test/
+manifest.mf
+build.xml
+
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
