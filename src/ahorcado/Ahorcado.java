@@ -1,10 +1,10 @@
 
-package ahorcado_pre;
+package ahorcado;
 
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Ahorcado_PRE {
+public class Ahorcado {
 
     public static void main(String[] args) {
         

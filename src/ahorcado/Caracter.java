@@ -1,5 +1,5 @@
 
-package ahorcado_pre;
+package ahorcado;
 
 public class Caracter {
     public char letra;
@@ -11,6 +11,6 @@ public class Caracter {
     }
 
     Caracter() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+        throw new UnsupportedOperationException("Not supported yet.");
     }
 }
