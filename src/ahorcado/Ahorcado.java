@@ -6,9 +6,11 @@ import java.util.Scanner;
 
 public class Ahorcado {
 
-    public static void main(String[] args) {
+    private static Scanner escaner;
+
+	public static void main(String[] args) {
         
-        Scanner escaner = new Scanner(System.in);
+        escaner = new Scanner(System.in);
         
         //Variables
         int vidas = 5;
